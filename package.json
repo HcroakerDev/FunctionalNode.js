@@ -1,0 +1,14 @@
+{
+  "name": "FunctionalNode.js",
+  "version": "1.0.0",
+  "description": "A test project with yarn, node.js (Javascript) and lodash",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ramda": "^0.27.1"
+  }
+}
